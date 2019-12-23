@@ -1,5 +1,5 @@
 
-# PROJECT 3:  Twitter Clone Using Elixir 4.1
+# PROJECT 4.1:  Twitter Clone Using Elixir
 
 ### COP5615 - Distributed Operating Systems Principles
 
@@ -22,24 +22,24 @@ mix run proj4.exs 10 10
 ```
 
 ## Functionalities
-Our project provides the following functionalities:
-•	Create account
-•	Making tweets
-•	Following users
-•	Retweets
-•	Hashtags
-•	Mentions
-•	Delete account
+Our project provides the following functionalities: 
+•	Create account 
+•	Making tweets 
+•	Following users 
+•	Retweets 
+•	Hashtags 
+•	Mentions 
+•	Delete account 
 
 ## Tests using ExUnit: 
 
-Tests Created:
-•	Creating account
-•	Following users
-•	Tweeting
-•	Deleting account
-•	Mentions
-•	Hashtags
+Tests Created: 
+•	Creating account 
+•	Following users 
+•	Tweeting 
+•	Deleting account 
+•	Mentions 
+•	Hashtags 
 
 ## Steps to the run the tests:
 1.	To run all the tests, cd into the project folder and use the command “mix test”.
